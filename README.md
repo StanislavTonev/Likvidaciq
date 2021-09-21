@@ -1,1 +1,1 @@
-# Likvidaciq
+design-patterns
